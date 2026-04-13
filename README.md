@@ -24,4 +24,4 @@ Operational efforts should prioritize reducing delays beyond the estimated deliv
 
 ## Dashboard
 
-![Dashboard](Tableau Delivery Delays Effect.png)
+![Dashboard](Tableau_Delivery_Delays_Effect.png)
