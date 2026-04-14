@@ -13,8 +13,6 @@ Delivery delays may harm customer experience, but how large is the effect?
 - ~$6 revenue impact per bad experience
 
 ## Dashboard
-[Insert screenshot]
-
 
 Delivery delays have a substantial and causal impact on customer experience. Orders delayed by more than 3 days increase the likelihood of a negative review by approximately 40 percentage points, rising to over 55 percentage points for delays exceeding 7 days. In relative terms, this corresponds to a 5–6x increase in risk.
 
